@@ -1,2 +1,2 @@
-# Gholem
+# Stygian
 Game Engine Project
